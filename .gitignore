@@ -1,0 +1,20 @@
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.bz2
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.tgz
+*.map
+
+# OS generated files #
+######################
+**.DS_Store*
+
+# VSCode Workspace Settings #
+.vscode
